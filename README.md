@@ -8,6 +8,8 @@
 
 A curated exploration of what AI is making possible in filmmaking — and what remains irreducibly human.
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 ---
 
 ## The Premise
@@ -41,6 +43,7 @@ This repo tracks that metamorphosis for film.
 - [The Economic Shift](#the-economic-shift)
 - [Philosophy & Criticism](#philosophy--criticism)
 - [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
 
 ---
 
@@ -264,6 +267,14 @@ This is a living document. The landscape shifts weekly.
 4. **Philosophy** — Must be substantive. No hot takes.
 
 Open a PR or issue. Link the thing. Explain why it matters *for the impossible → possible transition*.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+---
+
+## Code of Conduct
+
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to the maintainer.
 
 ---
 
